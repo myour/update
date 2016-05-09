@@ -1,0 +1,3 @@
+---- receive data time out Matches (2 in 1 files) ----
+Update.c:					rptRevErr("receive data time out");
+Update.c:					DEBUG("receive data time out ,clean up received data!!!\n");
